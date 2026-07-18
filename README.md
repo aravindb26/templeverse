@@ -1,1 +1,2 @@
-# templeverse
+# TempleVerse
+Static starter.
